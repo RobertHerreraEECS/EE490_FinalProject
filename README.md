@@ -1,5 +1,7 @@
 # EE490_FinalProject
 CAPTCHA and Image Recognition
+
+
  1.) test three layer network with data and given model parameters
  ---------------------------------------------------------------------
  
